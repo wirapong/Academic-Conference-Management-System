@@ -38,7 +38,7 @@
 
 ## 🌟 Overview
 
-This system was originally developed for the **7th National Conference on Thai Information Science Education 2026 (TISE-2026)**, hosted by the College of Local Administration, Khon Kaen University.
+This system was originally developed for the **7th National Conference on Thai Information Science Education 2026 (TISE-2026)**, hosted by the Department of Information Science, Faculty of Humanities and Social Sciences, Khon Kaen University.
 
 It provides a complete end-to-end workflow for academic conference management, from paper submission through peer review, author notification, camera-ready collection, and participant registration — all running on Google's free infrastructure with zero hosting costs.
 
@@ -973,7 +973,7 @@ SOFTWARE.
 ## 🙏 Acknowledgements
 
 - Built for the **7th National Conference on Thai Information Science Education 2026 (TISE-2026)**
-- Hosted by the **College of Local Administration, Khon Kaen University**
+- Hosted by the **Department of Information Science, Faculty of Humanities and Social Sciences, Khon Kaen University**
 - Developed using **Google Apps Script**, **Google Sheets**, and **Google Drive**
 
 ---
